@@ -6,7 +6,7 @@ I’m a 3rd-year Computer Science student at **Universidade do Minho**, passiona
 ## 💻 Tech Stack
 - **Programming Languages:** Python | C | Rust | Java | Haskell
 - **Interests:** AI, Cybersecurity and Systems Programming
-- 
+
 ## 🚀 Projects
 Here are some of the projects I've worked on:
 - 🧠 **[Projeto-IA_2425](https://github.com/RodrigoOFernandes/Projeto-IA_2425/)** – AI-based system for optimizing food distribution in disaster scenarios.
