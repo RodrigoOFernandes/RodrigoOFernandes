@@ -19,6 +19,6 @@ Here are some of the projects I've worked on:
 
 ## 📫 Connect with Me
 - 📧 Email: [rodrigofernan132004@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/rodrigo-fernandes-561086273/]
+- 💼 LinkedIn: [www.linkedin.com/in/rodrigo-fernandes-561086273/]
 
 Feel free to check out my repositories and reach out if you'd like to collaborate! 🚀
