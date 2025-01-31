@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 - Improving my **Rust** skills for low-level programming
 
 ## 📫 Connect with Me
-- 📧 Email: [your.email@example.com](rodrigofernan132004@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rodrigo-fernandes-561086273/)
+- 📧 Email: [rodrigofernan132004@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/rodrigo-fernandes-561086273/]
 
 Feel free to check out my repositories and reach out if you'd like to collaborate! 🚀
