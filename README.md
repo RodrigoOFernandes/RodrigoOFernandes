@@ -4,7 +4,7 @@
 I’m a 3rd-year Computer Science student at **Universidade do Minho**, passionate about **Artificial Intelligence** and **Cybersecurity**. While I currently have no professional experience beyond my academic projects, I’m constantly learning and building new things to expand my skill set.
 
 ## 💻 Tech Stack
-- **Programming Languages:** Python | C | Rust | Java | Haskell
+- **Programming Languages:** Python | C | Rust | Java 
 - **Interests:** AI, Cybersecurity and Systems Programming
 
 ## 🚀 Projects
