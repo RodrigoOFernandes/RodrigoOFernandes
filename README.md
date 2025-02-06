@@ -9,8 +9,9 @@ I’m a 3rd-year Computer Science student at **Universidade do Minho**, passiona
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
-- 🧠 **[Projeto-IA_2425](https://github.com/RodrigoOFernandes/Projeto-IA_2425/)** – AI-based system for optimizing food distribution in disaster scenarios.
-- 📝 **[rust_editor](https://github.com/RodrigoOFernandes/rust_editor/)** – A simple TUI text editor built in Rust.
+- **[Projeto-IA_2425](https://github.com/RodrigoOFernandes/Projeto-IA_2425/)** – AI-based system for optimizing food distribution in disaster scenarios.
+- **[LI3](https://github.com/RodrigoOFernandes/LI3)** – Music data analysis system.
+- **[McFit](https://github.com/RodrigoOFernandes/McFit)** - Physical activities and workout manager in java.
 - and others!
 
 ## 📖 Currently Learning
