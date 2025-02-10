@@ -14,10 +14,6 @@ Here are some of the projects I've worked on:
 - **[McFit](https://github.com/RodrigoOFernandes/McFit)** - Physical activities and workout manager in java.
 - and others!
 
-## 📖 Currently Learning
-- Exploring **AI frameworks** and **Machine Learning algorithms**
-- Improving my **Rust** skills for low-level programming
-
 ## 📫 Connect with Me
 - 📧 Email: [rodrigofernan132004@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/rodrigo-fernandes-561086273/]
